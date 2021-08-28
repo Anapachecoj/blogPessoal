@@ -1,0 +1,22 @@
+ul.redes-sociais{
+list-style: none;
+padding: 0;
+}
+
+ul.redes-sociais{
+    display: inline;
+    margin: 0;
+    padding: 5px;
+    }
+    .fa{
+        font-size: 20pt;
+        color: white;
+        padding: 10px;
+    }
+    .fa-facebook-square:hover{
+        color: #3b5998;
+    }
+    .fa-instagram:hover{
+        color: #C13584;
+    } 
+
